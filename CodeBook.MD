@@ -4,15 +4,10 @@ This is a summary of variables in "data_mean.txt":
 
 ## Identifiers
 
-* 'SUBJECT' - Test subject identification number
-        * '1:30'
-* 'ACTIVITY' - Activity identification string
-        * 'WALKING'
-        * 'WALKING_UPSTAIRS'
-        * 'WALKING_DOWNSTAIRS'
-        * 'SITTING'
-        * 'STANDING'
-        * 'LAYING'
+* 'SUBJECT' - Test subject identification number (1:30)
+
+* 'ACTIVITY' - Activity identification string (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
 
 ## Measured variables
 
