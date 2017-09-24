@@ -5,14 +5,14 @@ This is a summary of variables in "data_mean.txt":
 ## Identifiers
 
 * 'SUBJECT' - Test subject identification number
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * '1:30'
+        * '1:30'
 * 'ACTIVITY' - Activity identification string
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 'WALKING'
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 'WALKING_UPSTAIRS'
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 'WALKING_DOWNSTAIRS'
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 'SITTING'
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 'STANDING'
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * 'LAYING'
+        * 'WALKING'
+        * 'WALKING_UPSTAIRS'
+        * 'WALKING_DOWNSTAIRS'
+        * 'SITTING'
+        * 'STANDING'
+        * 'LAYING'
 
 ## Measured variables
 
