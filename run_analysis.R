@@ -26,7 +26,7 @@ features_names = gsub('-mean', '_MEAN_', features_names)
 features_names = gsub('-std', '_STD_', features_names)
 features_names <- gsub('[-()]', '', features_names)
 
-##read "t" and "train" subsets into data frames
+##read "test" and "train" subsets into data frames
 test_x <- read.table("UCI HAR dataset/test/X_test.txt")[features]
 test_activity <- read.table("UCI HAR dataset/test/Y_test.txt")
 test_subjects <- read.table("UCI HAR dataset/test/subject_test.txt")
